@@ -1,3 +1,0 @@
-C:/Development.Migdal/Research.TestGit/TestGit/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Development.Migdal/Research.TestGit/TestGit/project/cmake-build-debug/CMakeFiles/project.dir
-C:/Development.Migdal/Research.TestGit/TestGit/project/cmake-build-debug/CMakeFiles/edit_cache.dir
