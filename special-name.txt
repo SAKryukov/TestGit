@@ -1,1 +1,3 @@
 Special user name introduced, correct e-mail address
+
+User name changed to "Sergey A Kryukov"
