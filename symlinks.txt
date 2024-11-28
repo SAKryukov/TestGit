@@ -1,0 +1,13 @@
+Use:
+git config core.symlinks true
+
+Checkup:
+git config --get core.symlinks
+
+With Windows:
+mklink [[/d] | [/h] | [/j]] <link> <target>
+
+/d Creates a directory symbolic link. By default, this command creates a file symbolic link.
+<link>	Specifies the name of the symbolic link being created.
+<target>	Specifies the path (relative or absolute) that the new symbolic link refers to.
+/?	Displays help at the command prompt.
