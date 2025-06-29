@@ -1,4 +1,5 @@
 /index.html
 *.js
+/project/*.js
   Cache-Control: no-cache, no-store, must-revalidate
   Expires: 0
