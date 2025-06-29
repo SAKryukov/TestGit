@@ -1,0 +1,4 @@
+/index.html
+*.js
+  Cache-Control: no-cache, no-store, must-revalidate
+  Expires: 0
